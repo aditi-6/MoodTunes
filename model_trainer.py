@@ -13,8 +13,7 @@ Models Used:
   - Random Forest Classifier
   - K-Nearest Neighbors Classifier
 
-Author: [Your Name]
-Course: CSA2001 — Fundamentals of AI and ML
+Author: Aditi Jha
 """
 
 import os
