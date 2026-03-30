@@ -9,8 +9,7 @@ Handles all prediction-related features:
   - Prediction history tracking
   - Mood insights and pattern analysis
 
-Author: [Your Name]
-Course: CSA2001 — Fundamentals of AI and ML
+Author: Aditi Jha
 """
 
 import os
