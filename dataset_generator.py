@@ -14,8 +14,7 @@ Logic Behind Genre Mappings:
   - Calm + Studying         → Lo-fi
   - Peaceful + Relaxed      → Classical
 
-Author: [Your Name]
-Course: CSA2001 — Fundamentals of AI and ML
+Author: Aditi Jha
 """
 
 import numpy as np
