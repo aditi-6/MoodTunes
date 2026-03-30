@@ -4,8 +4,7 @@ utils.py — Constants, Display Helpers, and Utility Functions
 Contains all shared constants, song data, display formatting,
 and input validation functions used across the application.
 
-Author: [Your Name]
-Course: CSA2001 — Fundamentals of AI and ML
+Author: Aditi Jha
 """
 
 import os
