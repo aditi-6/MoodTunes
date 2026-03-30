@@ -10,8 +10,7 @@ Handles the menu system and connects all modules:
   - utils.py              (shared utilities)
 
 Course : CSA2001 — Fundamentals of AI and ML
-Author : [Your Name]
-Reg No : [Your Reg No]
+Author : Aditi Jha
 
 Usage:
     python main.py
