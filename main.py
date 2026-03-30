@@ -9,7 +9,6 @@ Handles the menu system and connects all modules:
   - predictor.py          (predictions & history)
   - utils.py              (shared utilities)
 
-Course : CSA2001 — Fundamentals of AI and ML
 Author : Aditi Jha
 
 Usage:
